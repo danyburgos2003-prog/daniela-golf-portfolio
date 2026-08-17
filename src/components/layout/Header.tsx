@@ -8,7 +8,7 @@ export default function Header() {
       </Link>
 
       <nav className="site-nav">
-        <Link href="/journey">Journey</Link>
+        <Link href="/#journey">Journey</Link>
         <Link href="/partnerships">Partners</Link>
       </nav>
     </header>

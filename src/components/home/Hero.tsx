@@ -21,7 +21,7 @@ export default function Hero() {
             Become a Partner
           </a>
 
-          <a href="/journey" className="button button-secondary">
+          <a href="#journey" className="button button-secondary">
             Explore My Journey
           </a>
         </div>

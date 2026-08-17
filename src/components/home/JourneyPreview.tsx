@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function JourneyPreview() {
   return (
-    <section className="journey-preview">
+    <section id="journey" className="journey-preview">
       <div className="journey-preview-inner">
         <div className="journey-preview-heading">
           <p className="journey-preview-label">The Journey</p>
