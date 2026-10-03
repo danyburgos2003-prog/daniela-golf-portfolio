@@ -242,7 +242,7 @@ export default function CareerPage() {
           <div>
             <p className="career-era-label">Competition</p>
             <h2>Amateur Championships</h2>
-            <p className="career-era-years">2023–2025</p>
+            <p className="career-era-years">2023–2026</p>
           </div>
         </div>
 
@@ -251,6 +251,12 @@ export default function CareerPage() {
             <p className="career-season-year">Selected Results</p>
 
             <ul>
+              <li>
+                <strong>2nd</strong> — 2026 Torneo Abierto del Jockey Club de Rosario · +9
+                <br />
+                Jockey Club de Rosario · Argentina
+              </li>
+              
               <li>
                 <strong>T10</strong> — 2023 San Diego City Amateur
                 Championship · Torrey Pines · +8
